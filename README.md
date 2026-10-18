@@ -4,19 +4,27 @@ Independent initial coverage and subscription underwrite of the 2026 Dangote Pet
 
 ## Investment conclusion
 
-**PASS at ₦525 / WATCHLIST.** The refinery is a strategic, world-scale asset, but the offer price capitalises unusually favourable 2026 earnings and material value from an expansion that was not fully funded at the research cut-off.
+**RE-UNDERWRITE following the 9M 2026 results.** The original conclusion was **PASS at ₦525 / WATCHLIST**, with a preliminary fair-value range of ₦287–₦372 per share. Unaudited results released on 13 October 2026 were materially stronger than the prospectus-based underwrite and require the valuation, entry price and position-sizing framework to be refreshed before the extended offer closes.
 
-| Item | Assessment |
-|---|---:|
-| IPO price | ₦525/share |
-| Preliminary fair-value range | ₦287–₦372/share |
-| Probability-weighted present value | ~₦333/share |
-| Disciplined entry threshold | ~₦280/share |
-| IPO-created public ownership | 3.30% |
-| Residual expansion funding gap | ~US$12.72bn before overruns |
-| Governance assessment | 2/5 |
+| Item | Original assessment | Current status |
+|---|---:|---|
+| IPO price | ₦525/share | Unchanged |
+| Preliminary fair-value range | ₦287–₦372/share | Suspended pending model refresh |
+| Probability-weighted present value | ~₦333/share | Requires re-underwriting |
+| Disciplined entry threshold | ~₦280/share | Requires re-underwriting |
+| IPO-created public ownership | 3.30% | Confirm final allotment/free float |
+| Residual expansion funding gap | ~US$12.72bn before overruns | Reconcile against updated cash and funding |
+| Governance assessment | 2/5 | Unchanged pending new evidence |
 
-The research was prepared from the prospectus dated 7 September 2026 and public evidence available at the stated cut-off. It is not a live trading recommendation. Subscription, allotment, listing, operating and financing developments may require re-underwriting.
+The original research was prepared from the prospectus dated 7 September 2026 and public evidence available at the stated cut-off. The 9M 2026 update is tracked separately and does not silently overwrite the historical underwrite.
+
+## Material update — 13 October 2026
+
+The company reported unaudited 9M 2026 revenue of **US$22.48bn**, EBITDA of **US$5.52bn**, net income of **US$4.73bn**, operating cash flow of **US$3.68bn**, cash of **US$6.69bn** and net cash of **US$650.8m**. The official IPO portal now displays an offer closing date of **27 October 2026**.
+
+These results weaken the original Pass case, but do not by themselves establish sustainable mid-cycle earnings. The required diligence includes the Q3 earnings bridge, working-capital movements, cash restrictions, debt definition, tax and FX effects, maintenance requirements and expansion commitments.
+
+See [Market and filing updates](sources/market-and-filing-updates.md).
 
 ## Read the research
 
@@ -24,6 +32,7 @@ The research was prepared from the prospectus dated 7 September 2026 and public 
 - [Investment assessment](research/investment-assessment.md)
 - [Valuation methodology and limitations](valuation/valuation-methodology.md)
 - [Official source links](sources/official-source-links.md)
+- [Market and filing updates](sources/market-and-filing-updates.md)
 - [Excluded source material](sources/excluded-material.md)
 - [Research disclaimer](DISCLAIMER.md)
 - [Copyright and permitted use](COPYRIGHT.md)
@@ -34,7 +43,7 @@ The research was prepared from the prospectus dated 7 September 2026 and public 
 
 ## Repository scope
 
-The issuer's official public-offer portal is [ipo.dangote.com](https://ipo.dangote.com/). It is the preferred source for the live offer timetable, prospectus access, approved subscription channels, FAQs and fraud warnings. When checked on 12 October 2026, the portal displayed an offer of 4.1 billion ordinary shares at ₦525 per share, open from 14 September to 13 October 2026.
+The issuer's official public-offer portal is [ipo.dangote.com](https://ipo.dangote.com/). It is the preferred source for the live offer timetable, prospectus access, approved subscription channels, FAQs and fraud warnings. When checked on 18 October 2026, the portal displayed an offer of 4.1 billion ordinary shares at ₦525 per share, open from 14 September to 27 October 2026.
 
 This repository publishes original analysis, selected analyst-created graphics and transparent assumptions. It intentionally does **not** redistribute the issuer's prospectus or third-party copyrighted reports. Readers should obtain source documents from the issuer, regulator or exchange using the links provided.
 
@@ -43,4 +52,4 @@ This repository publishes original analysis, selected analyst-created graphics a
 Kenneth S. Legesi, CFA  
 Oakstone Capital (OAC)
 
-Research cut-off: September 2026. Repository prepared for public release: 12 October 2026.
+Original research cut-off: September 2026. Latest evidence update: 18 October 2026.
