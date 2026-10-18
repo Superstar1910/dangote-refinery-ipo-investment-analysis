@@ -4,7 +4,7 @@ Independent initial coverage and subscription underwrite of the 2026 Dangote Pet
 
 ## Investment conclusion
 
-**RE-UNDERWRITE following the 9M 2026 results.** The original conclusion was **PASS at ₦525 / WATCHLIST**, with a preliminary fair-value range of ₦287–₦372 per share. Unaudited results released on 13 October 2026 were materially stronger than the prospectus-based underwrite and require the valuation, entry price and position-sizing framework to be refreshed before the extended offer closes.
+**WATCHLIST / DO NOT SUBSCRIBE AT ₦525 without the complete 9M statements.** The refreshed model produces a probability-weighted value of approximately **₦413 per share**, a base case of **₦344**, and a constructive case of **₦513**. The revised disciplined entry reference is approximately **₦350**. The previous ₦287–₦372 range and ~₦280 threshold are superseded.
 
 | Item | Original assessment | Current status |
 |---|---:|---|
@@ -24,12 +24,14 @@ The company reported unaudited 9M 2026 revenue of **US$22.48bn**, EBITDA of **US
 
 These results weaken the original Pass case, but do not by themselves establish sustainable mid-cycle earnings. The required diligence includes the Q3 earnings bridge, working-capital movements, cash restrictions, debt definition, tax and FX effects, maintenance requirements and expansion commitments.
 
-See [Market and filing updates](sources/market-and-filing-updates.md).
+See [the 9M 2026 model update](research/9m-2026-model-update.md), [the Excel model](models/Dangote_Refinery_IPO_9M2026_Model_Update.xlsx), and [market and filing updates](sources/market-and-filing-updates.md).
 
 ## Read the research
 
 - [Full interactive research note](research/dangote-refinery-ipo-initial-coverage.html)
-- [Investment assessment](research/investment-assessment.md)
+- [9M 2026 model update](research/9m-2026-model-update.md)
+- [Excel valuation model](models/Dangote_Refinery_IPO_9M2026_Model_Update.xlsx)
+- [Original investment assessment](research/investment-assessment.md)
 - [Valuation methodology and limitations](valuation/valuation-methodology.md)
 - [Official source links](sources/official-source-links.md)
 - [Market and filing updates](sources/market-and-filing-updates.md)
